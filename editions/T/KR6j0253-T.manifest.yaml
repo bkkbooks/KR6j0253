@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0253/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0253/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖觀自在菩薩一百八名經
+  identifiers:
+    krp: KR6j0253
+    cbeta: T20n1054
+    cbeta_old_id: T20n1054
+    authorityid: CA0002971
+    json_key: T1054
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1054.xml
+    old_id: T20n1054
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0253_000-T.yaml, hash: 'sha256:5fcde9ec8b2beecae8f9f7ebf867306f18bf2f6402beef7be0d0adf0f77acb69'}
+  - {seq: 1, filename: KR6j0253_001-T.yaml, hash: 'sha256:3a20cc1576a528ef802e4361a987035a3bd2d1efebb26de5ce2025280c5776bd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0253_000-T.markers.yaml, hash: 'sha256:0c088b9816326d9e38bdabe6784225f1d4f35ea5dd7d6f45cf2c0c92710dd4dc'}
+  - {seq: 1, role: markers, filename: assets/KR6j0253_001-T.markers.yaml, hash: 'sha256:daa51221d3c7366fe3517fb851d43ea1ed9e7a9fe9739721f4d388526f4fae70'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0253_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2245
+  label: 聖觀自在菩薩一百八名經
+  type: juan
+  level: 1
+hash: sha256:ade030fbd88feb4edf98b9d48ac080d848532366d7a57a8033ab420d262e575f

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0253/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 聖觀自在菩薩一百八名經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1054.xml
+    old_id: T20n1054
+hash: sha256:5fcde9ec8b2beecae8f9f7ebf867306f18bf2f6402beef7be0d0adf0f77acb69
