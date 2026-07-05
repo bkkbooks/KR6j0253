@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0253_000.yaml, hash: 'sha256:5fcde9ec8b2beecae8f9f7ebf867306f18bf2f6402beef7be0d0adf0f77acb69'}
-  - {seq: 1, filename: KR6j0253_001.yaml, hash: 'sha256:7a3a0f92123a562d106085efb6d0b6d6f5e488c6915b32aeac4f71c9d6f12046'}
+  - {seq: 1, filename: KR6j0253_001.yaml, hash: 'sha256:3a20cc1576a528ef802e4361a987035a3bd2d1efebb26de5ce2025280c5776bd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0253_001.markers.yaml, hash: 'sha256:05f4aefae76bde5024c77322bca41d7e5c8f6485f6e1ea8d4460dd69028def31'}
+  - {seq: 0, role: markers, filename: assets/KR6j0253_000.markers.yaml, hash: 'sha256:eff2ba364975a25341398766cd0a374ea5a9ad78a64ee8e7bf9de75b4a831046'}
+  - {seq: 1, role: markers, filename: assets/KR6j0253_001.markers.yaml, hash: 'sha256:7644d55450c339c47ef2832f85d2773126eba93cd54ff85934bfa23dd9a5ac3d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 聖觀自在菩薩一百八名經
   type: juan
   level: 1
-hash: sha256:f67285060b3690c6e887d518d75c363f0fd7d3e6e16186cb0fd96048b3ee9dc1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:43040924298cfbfc47b9e58aab0931980b63b48ee65e0f315b14ce8b6b0efd39
