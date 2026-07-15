@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0253/v1
 canonical_location: https://kanripo.org/bkk/KR6j0253/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 聖觀自在菩薩一百八名經
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0253_000.yaml, hash: 'sha256:5fcde9ec8b2beecae8f9f7ebf867306f18bf2f6402beef7be0d0adf0f77acb69'}
-  - {seq: 1, filename: KR6j0253_001.yaml, hash: 'sha256:3a20cc1576a528ef802e4361a987035a3bd2d1efebb26de5ce2025280c5776bd'}
+  - {seq: 1, filename: KR6j0253_001.yaml, hash: 'sha256:56cca3b4983ffbe1ac9ec9f8bbb2aebbdd730d6a2165664337452f53bf0d950e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0253_000.markers.yaml, hash: 'sha256:eff2ba364975a25341398766cd0a374ea5a9ad78a64ee8e7bf9de75b4a831046'}
-  - {seq: 1, role: markers, filename: assets/KR6j0253_001.markers.yaml, hash: 'sha256:7644d55450c339c47ef2832f85d2773126eba93cd54ff85934bfa23dd9a5ac3d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0253_001.markers.yaml, hash: 'sha256:c777c5c7cb793b0e0774617a84bc534765dbf002b0369e534c10b0f198021950'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 聖觀自在菩薩一百八名經
   type: juan
   level: 1
-hash: sha256:43040924298cfbfc47b9e58aab0931980b63b48ee65e0f315b14ce8b6b0efd39
+hash: sha256:4c9b9cf040f1742c69b3a55335704abec9f43792af2904b1f3de200f2262d49f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
